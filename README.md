@@ -89,4 +89,4 @@ incident monitoring, and security analytics.
 
 📧 **joshna.rose9486@gmail.com**
 
-🔗 [LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/joshna1210)
+🔗 [LinkedIn](www.linkedin.com/in/joshna-rose-992ba2329) · [GitHub](https://github.com/joshna1210)
