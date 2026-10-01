@@ -19,7 +19,7 @@ experience in secure application development, AI/ML, and full-stack development.
 
 **Databases:** MySQL · MongoDB
 
-**Domains:** Cyber Security · AI/ML · Full-Stack Development · UI/UX · Cloud
+**Domains:** Cyber Security · AI/ML · Full-Stack Development · UI/UX · Cloud Computing
 
 **Tools:** Git · GitHub · AWS · Figma · UiPath · Vercel
 
@@ -30,22 +30,40 @@ experience in secure application development, AI/ML, and full-stack development.
 ### 🛡️ DEFENZA
 **Intent-Aware Transformer-Based Web Application Firewall**
 
-AI-powered WAF for HTTP request intent analysis and malicious traffic detection.
+Intelligent WAF for HTTP request intent analysis and malicious traffic detection
+using semantic and behavioural analysis.
 
 `Python` `Transformers` `FastAPI`
 
 ### 🧠 SAT-SA
 **Security Analytics & Threat Situational Awareness**
 
-AI-driven security intelligence system for evidence normalization, behavioural analysis
-and threat correlation.
+AI-driven security intelligence system for evidence normalization, entity profiling,
+behavioural analysis, and threat correlation.
 
 `Python` `LLM` `Threat Intelligence`
 
 ### 🎣 ZEROPHISH AI
-AI-driven phishing detection using ML classification and real-time traffic analysis.
+**AI-Based Phishing Detection**
 
-`Python` `Machine Learning`
+AI-driven phishing detection system using ML classification and real-time traffic analysis.
+
+`Python` `Machine Learning` `Real-Time Analysis`
+
+### 💧 AQUAGUARD AI
+**Waterborne Disease Prediction System**
+
+AI/ML system for predicting waterborne diseases using environmental data.
+
+`Python` `AI/ML` `Data Analysis`
+
+### ⚡ PowerSector SOC
+**Air-Gapped Defense Network**
+
+Secure SOC architecture for power-sector environments with threat detection,
+incident monitoring, and security analytics.
+
+`Python` `Cybersecurity` `SIEM`
 
 ---
 
